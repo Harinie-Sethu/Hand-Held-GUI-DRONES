@@ -1,2 +1,2 @@
 # Hand-Held-GUI-DRONES
-Prepared for a client in the Indian Defense Drone Startup Industry
+Prepared for a client in the Drone Startup Industry
