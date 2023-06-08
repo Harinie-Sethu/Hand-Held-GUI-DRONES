@@ -1,5 +1,5 @@
-# Hand-Held-GUI-DRONES
-Prepared for a client in the Drone Startup Industry
+# Hand-Held-GUI-DRONES  
+Prepared for a client in the Drone Startup Industry  
 Team Members: Ayan Datta, Ronak Dhingra, Sriya Vennapally, Harinie Sivaramasethu
 
 <!-- gif or video here -->
